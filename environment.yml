@@ -16,3 +16,5 @@ dependencies:
   - pyLDAvis==2.1.2
   - language-check==1.1
   - gensim==3.8.1
+  - tensorflow>=1.7.0
+  - tensorflow-hub
